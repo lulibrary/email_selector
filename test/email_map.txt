@@ -1,0 +1,7 @@
+alice.test@domain.org; a.test@university.ac.uk; atest@univ.ac.uk; a.test@university.edu; alice.test@gmail.com
+bob.test@domain.org; b.test@university.ac.uk; btest@univ.ac.uk; bob.test@gmail.com
+cath.test@domain.org; c.test@university.edu; ctest@univ.ac.uk; cath.test@gmail.com
+dave.test@domain.org; dtest@otheruniv.ac.uk; dtest@univ.ac.uk; dave.test@gmail.com
+ellen.test@domain.org; etest@otheruniv.ac.uk; e.test@university.edu; e.test@gmail.com
+frank.test@domain.org; ftest@univ.ac.uk; frank.test@gmail.com
+gill.test@domain.org; gill.test@gmail.com

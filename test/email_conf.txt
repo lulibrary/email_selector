@@ -1,0 +1,12 @@
+# Primary email domains
+domain @university.ac.uk
+domain @exchange.univ.ac.uk
+domain @exchange.university.ac.uk
+domain university.edu
+domain @live.univ.ac.uk
+domain @live.university.ac.uk
+domain .nhs.uk
+
+# Substitutions
+substitute @univ\.ac\.uk @university.ac.uk
+substitute @univ\.live\.ac\.uk @live.univ.ac.uk
